@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasper David Macaraeg</h1>
 <h3 align="center">Passionate to become a full-stack developer ✨</h3>
 
-<p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg">
-</p>
-
-<p align="left"> 
- <img src="[https://komarev.com/ghpvc/?username=mjasper30&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.fr%2Fpin%2F704180091723540571%2F&psig=AOvVaw1PCkBqPW-fhNrARzdjinGJ&ust=1686188038414000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi1-4qCsP8CFQAAAAAdAAAAABAf)" alt="mjasper30" /> 
-</p>
+![6171819be4c31993357d758196c75701](https://github.com/mjasper30/mjasper30/assets/81204548/2bbfa22c-08eb-480c-9733-ceb01f8a7b9b)
 
 - 🌱 I’m currently learning **Front-end stuffs and popular frameworks**
 
