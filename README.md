@@ -2,7 +2,7 @@
 <h3 align="center">Passionate to become a full-stack developer ✨</h3>
 
 <h1 align="center">
-![depxc3c-2c74dc75-552f-4b74-9d49-a01ec4c8ea90](https://github.com/mjasper30/mjasper30/assets/81204548/287c6dc7-5218-4f32-9bda-f194326c8cbb)
+  ![6171819be4c31993357d758196c75701](https://github.com/mjasper30/mjasper30/assets/81204548/154344e0-84a9-471e-baf7-c260f5bfbe3c)
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjasper30&label=Profile%20views&color=0e75b6&style=flat" alt="mjasper30" /> </p>
