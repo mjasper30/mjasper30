@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasper David Macaraeg</h1>
 <h3 align="center">Passionate to become a full-stack developer ✨</h3>
 
-![github-contribution-grid-snake](https://github.com/mjasper30/mjasper30/assets/81204548/14b96863-4146-4538-99a4-6c9db72508dd)
+![image](https://github.com/mjasper30/mjasper30/assets/81204548/35742823-dfd4-4282-9036-d60fa09fdc77)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjasper30&label=Profile%20views&color=0e75b6&style=flat" alt="mjasper30" /> </p>
 
