@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jasper David Macaraeg</h1>
 <h3 align="center">Passionate to become a full-stack developer ✨</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjasper30&label=Profile%20views&color=0e75b6&style=flat" alt="mjasper30" /> </p>
+
 ![6171819be4c31993357d758196c75701](https://github.com/mjasper30/mjasper30/assets/81204548/2bbfa22c-08eb-480c-9733-ceb01f8a7b9b)
 
 - 🌱 I’m currently learning **Front-end stuffs and popular frameworks**
