@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/81204548/243883657-2bbfa22c-08eb-480c-9733-ceb01f8a7b9b.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/81204548/243883657-2bbfa22c-08eb-480c-9733-ceb01f8a7b9b.gif"  />
 </div>
 
 ###
@@ -95,16 +95,16 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mjasper30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="345" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mjasper30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjasper30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mjasper30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjasper30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjasper30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="200" src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-6/294303204_111058328343692_1922269830753091845_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFclhdxtpbb545VW8rwbTerCOODEfHpEw4I44MR8ekTDteBQ7Umpwm3U7LQpSEIdQNh1pPlAHikLd4CatgQ4IcX&_nc_ohc=PJGIkCGzIl0AX9jUjFn&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfBdPY0I1A1X1pYBgf1xVOUKjb7UIy8ligDzkoIEqG6ZAQ&oe=649F061F"  />
+<img align="left" height="150" src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-6/294303204_111058328343692_1922269830753091845_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFclhdxtpbb545VW8rwbTerCOODEfHpEw4I44MR8ekTDteBQ7Umpwm3U7LQpSEIdQNh1pPlAHikLd4CatgQ4IcX&_nc_ohc=PJGIkCGzIl0AX9jUjFn&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfBdPY0I1A1X1pYBgf1xVOUKjb7UIy8ligDzkoIEqG6ZAQ&oe=649F061F"  />
 
 ###
 
