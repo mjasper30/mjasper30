@@ -9,6 +9,7 @@
 ###
 
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjasper30&label=Profile%148views&color=0e75b6&style=flat" alt="mjasper30" /> </p>
   <a href="https://www.facebook.com/mjasper30/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
