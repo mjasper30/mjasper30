@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as OJT in PHR<br>- 📚 I'm currently learning front-end and popular frameworks<br>- ⚡ In my free time I play League of Legends</p>
+<p align="left">- 🔭 I’m working as an OJT BSCS student at University of Caloocan City (UCC) South Campus<br>- 📚 I'm currently learning front-end and popular frameworks<br>- ⚡ In my free time I play League of Legends</p>
 
 ###
 
