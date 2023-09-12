@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m 4th Year BSCS student at University of Caloocan City (UCC) South Campus<br>- 📚 I'm currently learning front-end and popular frameworks<br>- ⚡ In my free time I play Teamfight Tactics<br>- 😎 Fun fact they called me Faker</p>
+<p align="left">- 🔭 I’m 4th Year BSCS student at University of Caloocan City (UCC) South Campus<br>- 📚 I'm currently learning machine learning, front-end and popular frameworks<br>- ⚡ In my free time I play Teamfight Tactics<br>- 😎 Fun fact they called me Faker</p>
 
 ###
 
