@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 Jasper David Macaraeg graduated from the University of Caloocan City (UCC) South Campus with a Bachelor of Science in Computer Science. <br>- 📚 I'm currently learning deep learning, front-end and popular frameworks<br>- ⚡ In my free time I play Teamfight Tactics, Genshin Impact, and Pokemon Unite<br>- 😎 Fun fact they called me Faker</p>
+<p align="left">- 🔭 Student from the University of Caloocan City (UCC) South Campus with a Bachelor of Science in Computer Science. <br>- 📚 I'm currently learning deep learning, front-end and popular frameworks<br>- ⚡ In my free time I play Teamfight Tactics, Genshin Impact, and Pokemon Unite<br>- 😎 Fun fact they called me Faker</p>
 
 ###
 
