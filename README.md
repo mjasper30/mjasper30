@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">- 🔭 Student from the University of Caloocan City (UCC) South Campus with a Bachelor of Science in Computer Science. <br>- 📚 I'm a passionate tech person that is eager to have continuous learning about modern and popular web frameworks and integration of AI on applications that help us to build a better future. One of my greatest achievements is that I am the one that builds and integrates YOLO AI on our thesis capstone "ReVendo" that receives an award from University of Caloocan City South Campus of "Best in Thesis Award" and "Appcon Grandwinner 2023" given by OTis Philippines/Japan Inc. <br>- ⚡ In my free time I play Teamfight Tactics, Genshin Impact, and Pokemon Unite<br>- 😎 Fun fact they called me Faker</p>
+<p align="left">- 🔭 Student from the University of Caloocan City (UCC) South Campus with a Bachelor of Science in Computer Science. <br>- 📚 I'm a passionate tech person that is eager to have continuous learning about modern and popular web frameworks and integration of AI on applications that help us to build a better future. 
+<br>- 🏅 One of my greatest achievements is that I am the one that builds and integrates YOLO AI on our thesis capstone "ReVendo" that receives an award from University of Caloocan City South Campus of "Best in Thesis Award" and "Appcon Grandwinner 2023" given by OTis Philippines/Japan Inc. <br>- ⚡ In my free time I play Teamfight Tactics, Genshin Impact, and Pokemon Unite<br>- 😎 Fun fact they called me Faker</p>
 
 ###
 
